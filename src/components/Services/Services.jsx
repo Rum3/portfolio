@@ -25,10 +25,10 @@ const Services = () => {
         {/* dark mode */}
         <span style={{ color: darkMode ? "white" : "" }}>My skills</span>
         <spane>
-          Завършил съм два курса в Progress.
-          Справям се отлично с HTML и CSS.
+        I have obtained two courses in Progress academy. 
+        I can perfectly work with HTML and CSS. 
           <br />
-          Добри познания по JavaScript , React и TypeScript.
+        I have gained knowledge in JavaScript, React and TypeScript.
         </spane>
         <a href={RumenHristov} download>
           <button className="button s-button">Download CV</button>

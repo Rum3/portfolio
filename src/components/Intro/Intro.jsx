@@ -25,9 +25,18 @@ const Intro = () => {
           <span style={{ color: darkMode ? "white" : "" }}>HI, I'm Rumen!</span>
           <span>Rumen Hristov</span>
           <span>
-          Започнах с писането на код по време на първата карантина - като на шега .
-Имах много свободно време и просто изгледах един клип за самообучение ,беше върху HTML и CSS. Доста ми допадна и  резултата ми хареса. Само след един едночасов клип можех да направя сайт и това ме вдъхнови, започнах постепенно да гледам още и още с нарастващ интерес. В един момент вече ми стана ясно ,че няма как да продължа да уча сам ефективно и се записах да изкарам курс по JavaScript ,след което записах още един - по React. Със сигурност има още много какво да науча ,но най- силната ми черта е желанието да се развивам и да обогатявам знанията си.
-
+          I started coding during the first COVID19 quarantine – it was
+           like a joke for me. I had plenty of free time and I watched a 
+           single self-study video connected with HTML and CSS. I really 
+           enjoyed the process and the final result was indeed satisfying 
+           for me. After only an hour of watching a self-study video I was 
+           able to create a website and this inspired me to continue further. 
+           I kept watching more and more videos and my interest was constantly 
+           increasing.  A time had come and I understood that I cannot self-educate
+            myself anymore, that is why I decided to participate in JavaScript course 
+            and then in another React course. However, I am absolutely sure that there 
+            is plenty more things that I will thrive but the best feature that I own is my
+             passion for gaining new knowledge and developing my professional skills. 
           </span>
         </div>
         <Link to="contact" smooth={true} spy={true}>
